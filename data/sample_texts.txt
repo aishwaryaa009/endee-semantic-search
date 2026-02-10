@@ -1,0 +1,5 @@
+Python is a programming language.
+Vector databases store embeddings.
+Endee is a high performance vector database.
+Artificial intelligence learns from data.
+Databases help store and retrieve information.
